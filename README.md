@@ -59,6 +59,10 @@ Desarrollar un modelo de clasificación que permita predecir con precisión si u
 - Predicciones de empleados con riesgo Alto/Medio/Bajo
 - Matriz de confusión y curva ROC
 
+![image](https://github.com/user-attachments/assets/27009016-4c4e-4b93-8c3d-b080e429d5ec)
+![Curva ROC del modelo Random Forest con AUC de 0.99](docs/portada.png)
+
+
 ## 💼 Aplicaciones del modelo
 
 - Anticipar deserción en recursos humanos
