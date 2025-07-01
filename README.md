@@ -1,5 +1,10 @@
 # 🏭 Predicción de Rotación de Empleados — Salifort Motors
 
+![image](https://github.com/user-attachments/assets/6aa7f319-2410-44f0-83e3-4319aab9d325)
+
+
+
+
 **Proyecto de analítica y machine learning para anticipar si un empleado abandonará la empresa.**
 
 ## 📌 Objetivo del Proyecto
